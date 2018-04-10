@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 1752a527b811b4d4fab97d58036beefc
+timeCreated: 1523050037
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: elbowL_bear
+    21300002: elbowR_bear
+    21300004: handL_bear
+    21300006: handR_bear
+    21300008: head_bear
+    21300010: kneeL_bear
+    21300012: kneeR_bear
+    21300014: shoulderL_bear
+    21300016: shoulderR_bear
+    21300018: Spine_bear
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elbowL_bear
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 785
+        width: 165
+        height: 54
+      alignment: 9
+      pivot: {x: 0.90909, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elbowR_bear
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 729
+        width: 165
+        height: 54
+      alignment: 9
+      pivot: {x: 0.07878788, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: handL_bear
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 614
+        width: 102
+        height: 113
+      alignment: 9
+      pivot: {x: 0.49019608, y: 0.11504425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: handR_bear
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 380
+        width: 80
+        height: 232
+      alignment: 9
+      pivot: {x: 0.8875, y: 0.94827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: head_bear
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 399
+        width: 247
+        height: 331
+      alignment: 9
+      pivot: {x: 0.5020243, y: 0.4018127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kneeL_bear
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 428
+        width: 145
+        height: 187
+      alignment: 9
+      pivot: {x: 0.45517242, y: 0.7486631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kneeR_bear
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 841
+        width: 169
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5088757, y: 0.8131868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shoulderL_bear
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 673
+        width: 155
+        height: 54
+      alignment: 9
+      pivot: {x: 0.88387096, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shoulderR_bear
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 617
+        width: 155
+        height: 54
+      alignment: 9
+      pivot: {x: 0.10322581, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Spine_bear
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 732
+        width: 310
+        height: 291
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

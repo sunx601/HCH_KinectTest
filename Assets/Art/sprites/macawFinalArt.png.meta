@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 79f487940535de442aeccab7fa8b87e6
+timeCreated: 1523299239
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: body_macaw
+    21300002: head_macaw
+    21300004: hipL_macaw
+    21300006: hipR_macaw
+    21300008: kneeL_macaw
+    21300010: kneeR_macaw
+    21300012: shoulderL_macaw
+    21300014: shoulderR_macaw
+    21300016: spine_macaw
+    21300018: tail_macaw
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: head_macaw
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 3317
+        width: 388
+        height: 778
+      alignment: 9
+      pivot: {x: 0.46391752, y: 0.14010283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hipL_macaw
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1576
+        width: 300
+        height: 518
+      alignment: 9
+      pivot: {x: 0.59000003, y: 0.9343629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hipR_macaw
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1263
+        width: 306
+        height: 520
+      alignment: 9
+      pivot: {x: 0.4248366, y: 0.9596154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kneeL_macaw
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1785
+        width: 444
+        height: 766
+      alignment: 9
+      pivot: {x: 0.7770273, y: 0.9386423}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kneeR_macaw
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 2553
+        width: 445
+        height: 762
+      alignment: 9
+      pivot: {x: 0.1910108, y: 0.94881886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shoulderL_macaw
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2993
+        width: 1584
+        height: 517
+      alignment: 9
+      pivot: {x: 0.96022767, y: 0.5067698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shoulderR_macaw
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3512
+        width: 1615
+        height: 583
+      alignment: 9
+      pivot: {x: 0.04396287, y: 0.53687805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spine_macaw
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1594
+        width: 719
+        height: 1397
+      alignment: 9
+      pivot: {x: 0.4589708, y: 0.9341446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: tail_macaw
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2096
+        width: 744
+        height: 895
+      alignment: 9
+      pivot: {x: 0.23790324, y: 0.8301676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

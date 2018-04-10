@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 8b1dd9c13b798bd40a7632a282e15152
+timeCreated: 1523384523
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: elbowL_gorilla
+    21300002: elbowR_gorilla
+    21300004: head_gorilla
+    21300006: hipL_gorilla
+    21300008: hipR_gorilla
+    21300010: kneeL_gorilla
+    21300012: kneeR_gorilla
+    21300014: shoulderL_gorilla
+    21300016: shoulderR_gorilla
+    21300018: spine_gorilla
+    21300020: elementTest-spineDOWN_gorilla
+    21300022: elementTest-spineUP_gorilla
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elbowL_gorilla
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 106
+        width: 217
+        height: 620
+      alignment: 9
+      pivot: {x: 0.5299539, y: 0.9612903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elbowR_gorilla
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 74
+        width: 229
+        height: 652
+      alignment: 9
+      pivot: {x: 0.44104803, y: 0.9754601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementTest-spineDOWN_gorilla
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1592
+        width: 644
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: elementTest-spineUP_gorilla
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 680
+        height: 855
+      alignment: 9
+      pivot: {x: 0.5441176, y: 0.81754386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: head_gorilla
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1446
+        width: 507
+        height: 601
+      alignment: 9
+      pivot: {x: 0.5581854, y: 0.13477537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hipL_gorilla
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 728
+        width: 250
+        height: 437
+      alignment: 9
+      pivot: {x: 0.668, y: 0.9542334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: hipR_gorilla
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1167
+        width: 254
+        height: 423
+      alignment: 9
+      pivot: {x: 0.56299216, y: 0.8959811}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kneeL_gorilla
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 970
+        width: 357
+        height: 474
+      alignment: 9
+      pivot: {x: 0.8039216, y: 0.9388186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: kneeR_gorilla
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1090
+        width: 386
+        height: 500
+      alignment: 9
+      pivot: {x: 0.25129533, y: 0.96}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shoulderL_gorilla
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1006
+        width: 221
+        height: 438
+      alignment: 9
+      pivot: {x: 0.60181, y: 0.9086758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: shoulderR_gorilla
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1631
+        width: 174
+        height: 416
+      alignment: 9
+      pivot: {x: 0.47126436, y: 0.9495192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: spine_gorilla
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 878
+        width: 680
+        height: 1169
+      alignment: 9
+      pivot: {x: 0.55, y: 0.8639863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
