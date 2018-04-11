@@ -1,0 +1,497 @@
+fileFormatVersion: 2
+guid: 56ab6e30528774a4b80ede44363cca04
+timeCreated: 1522958099
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: springToSummer-leaf00-00
+    21300002: springToSummer-leaf00-01
+    21300004: springToSummer-leaf00-02
+    21300006: springToSummer-leaf00-03
+    21300008: springToSummer-leaf00-04
+    21300010: springToSummer-leaf01-00
+    21300012: springToSummer-leaf01-01
+    21300014: springToSummer-leaf01-02
+    21300016: springToSummer-leaf01-03
+    21300018: springToSummer-leaf01-04
+    21300020: springToSummer-leaf01-05
+    21300022: springToSummer-leaf01-06
+    21300024: springToSummer-leaf02-00
+    21300026: springToSummer-leaf02-01
+    21300028: springToSummer-leaf02-02
+    21300030: summerToAutumn-leaf00-00
+    21300032: summerToAutumn-leaf00-01
+    21300034: summerToAutumn-leaf00-02
+    21300036: summerToAutumn-leaf00-03
+    21300038: summerToAutumn-leaf00-04
+    21300040: summerToAutumn-leaf01-00
+    21300042: summerToAutumn-leaf01-01
+    21300044: summerToAutumn-leaf01-02
+    21300046: summerToAutumn-leaf01-03
+    21300048: summerToAutumn-leaf02-00
+    21300050: summerToAutumn-leaf02-01
+    21300052: summerToAutumn-leaf02-02
+    21300054: winter-snow
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: springToSummer-leaf00-00
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3259
+        width: 721
+        height: 836
+      alignment: 9
+      pivot: {x: 0.48266298, y: 0.50119615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: springToSummer-leaf00-01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2421
+        width: 721
+        height: 836
+      alignment: 9
+      pivot: {x: 0.48266298, y: 0.50119615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: springToSummer-leaf00-02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1583
+        width: 721
+        height: 836
+      alignment: 9
+      pivot: {x: 0.48266298, y: 0.50119615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: springToSummer-leaf00-03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 745
+        width: 721
+        height: 836
+      alignment: 9
+      pivot: {x: 0.48266298, y: 0.50119615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: springToSummer-leaf00-04
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 3259
+        width: 721
+        height: 836
+      alignment: 9
+      pivot: {x: 0.48266298, y: 0.50119615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: springToSummer-leaf01-00
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 2810
+        width: 630
+        height: 447
+      alignment: 9
+      pivot: {x: 0.51746035, y: 0.49888143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: springToSummer-leaf01-01
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 2361
+        width: 630
+        height: 447
+      alignment: 9
+      pivot: {x: 0.51746035, y: 0.49888143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: springToSummer-leaf01-02
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 2021
+        width: 630
+        height: 447
+      alignment: 9
+      pivot: {x: 0.51746035, y: 0.49888143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: springToSummer-leaf01-03
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1572
+        width: 630
+        height: 447
+      alignment: 9
+      pivot: {x: 0.51746035, y: 0.49888143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: springToSummer-leaf01-04
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 494
+        width: 630
+        height: 447
+      alignment: 9
+      pivot: {x: 0.51746035, y: 0.49888143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: springToSummer-leaf01-05
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 45
+        width: 630
+        height: 447
+      alignment: 9
+      pivot: {x: 0.51746035, y: 0.49888143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: springToSummer-leaf01-06
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1123
+        width: 630
+        height: 447
+      alignment: 9
+      pivot: {x: 0.51746035, y: 0.49888143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: springToSummer-leaf02-00
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 943
+        width: 601
+        height: 453
+      alignment: 9
+      pivot: {x: 0.61064893, y: 0.5143488}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: springToSummer-leaf02-01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 119
+        width: 601
+        height: 624
+      alignment: 9
+      pivot: {x: 0.61064893, y: 0.6474359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: springToSummer-leaf02-02
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 119
+        width: 593
+        height: 624
+      alignment: 9
+      pivot: {x: 0.6053963, y: 0.6474359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: summerToAutumn-leaf00-00
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 3259
+        width: 721
+        height: 836
+      alignment: 9
+      pivot: {x: 0.48266298, y: 0.50119615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: summerToAutumn-leaf00-01
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 3279
+        width: 692
+        height: 816
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: summerToAutumn-leaf00-02
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 3279
+        width: 692
+        height: 816
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: summerToAutumn-leaf00-03
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 2461
+        width: 692
+        height: 816
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: summerToAutumn-leaf00-04
+      rect:
+        serializedVersion: 2
+        x: 3339
+        y: 2461
+        width: 692
+        height: 816
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: summerToAutumn-leaf01-00
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1912
+        width: 630
+        height: 447
+      alignment: 9
+      pivot: {x: 0.51746035, y: 0.49888143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: summerToAutumn-leaf01-01
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 674
+        width: 630
+        height: 447
+      alignment: 9
+      pivot: {x: 0.51746035, y: 0.49888143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: summerToAutumn-leaf01-02
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 225
+        width: 630
+        height: 447
+      alignment: 9
+      pivot: {x: 0.51746035, y: 0.49888143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: summerToAutumn-leaf01-03
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 1463
+        width: 630
+        height: 447
+      alignment: 9
+      pivot: {x: 0.51746035, y: 0.49888143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: summerToAutumn-leaf02-00
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 775
+        width: 593
+        height: 621
+      alignment: 9
+      pivot: {x: 0.6053963, y: 0.715781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: summerToAutumn-leaf02-01
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 152
+        width: 593
+        height: 621
+      alignment: 9
+      pivot: {x: 0.6053963, y: 0.715781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: summerToAutumn-leaf02-02
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1398
+        width: 601
+        height: 621
+      alignment: 9
+      pivot: {x: 0.61064893, y: 0.715781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: winter-snow
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 2470
+        width: 682
+        height: 787
+      alignment: 9
+      pivot: {x: 0.52052784, y: 0.48030496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
